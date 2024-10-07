@@ -18,5 +18,6 @@
 
 ## contributing
 
+* [Schema](contributing/schema.md)
 * [Development Environment](contributing/development-environment.md)
 * [Styleguide](contributing/styleguide.md)
