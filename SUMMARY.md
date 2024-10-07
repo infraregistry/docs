@@ -18,6 +18,7 @@
 
 ## contributing
 
-* [Schema](contributing/schema.md)
+* [Architecture](contributing/architecture/README.md)
+  * [Schema](contributing/architecture/schema.md)
 * [Development Environment](contributing/development-environment.md)
 * [Styleguide](contributing/styleguide.md)
