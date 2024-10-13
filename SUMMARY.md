@@ -18,6 +18,7 @@
 
 ## contributing
 
+* [Careers](contributing/careers.md)
 * [Architecture](contributing/architecture/README.md)
   * [Schema](contributing/architecture/schema.md)
 * [Development Environment](contributing/development-environment.md)
