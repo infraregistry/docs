@@ -42,3 +42,7 @@ Before applying please make sure you are prepared to meet the following requirem
 1. Must have a GitHub account and can link to it.
 2. Must have at least one repository that can be viewed or shared with us that cover the requirements above.
 
+{% hint style="info" %}
+Send your application by going to [https://forms.gle/pE5WDFCnd4xLyEqZ8](https://forms.gle/pE5WDFCnd4xLyEqZ8)!=
+{% endhint %}
+
