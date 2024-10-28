@@ -78,7 +78,7 @@ npm install @infraregistry/types@latest
 
 For more information, see [https://github.com/infraregistry/types/pkgs/npm/types](https://github.com/infraregistry/types/pkgs/npm/types).
 
-{% hint style="info" %}
+{% hint style="danger" %}
 You must update `.npmrc` in each project root that uses the `@infraregistry` scope so that `npm` knows to contact the GitHub Package Registry with the following:
 
 ```properties
