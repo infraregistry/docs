@@ -48,6 +48,12 @@ polyrepo push
 First, set up a GitHub Personal Access Token (classic) so that we can authenticate with `npm`:
 
 {% embed url="https://youtu.be/tPk_0vZu4hk" %}
+Create a Personal Access Token with packages:read permissions.
+{% endembed %}
+
+{% hint style="info" %}
+Want to know more about GitHub Packages? Head to [https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry)
+{% endhint %}
 
 Now we can `npm login` with our token to GitHub Packages:
 
