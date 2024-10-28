@@ -43,7 +43,7 @@ Now that your changes are committed we can push to github:
 polyrepo push
 ```
 
-#### Loging with npm
+### Using Github Packages for NPM
 
 First, set up a GitHub Personal Access Token (classic) so that we can authenticate with `npm`:
 
